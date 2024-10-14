@@ -24,7 +24,7 @@ function Course() {
   }, [])
 
   return (
-    <div className="max-w-screen-2xl h-screen dark:bg-slate-900 dark:text-white container mx-auto md:px-20 px-4">
+    <div className="max-w-screen-2xl dark:bg-slate-900 dark:text-white container mx-auto md:px-20 px-4">
       <div className="text-center items-center justify-center mt-28">
         <h1 className="text-3xl md:text-4xl ">
           We are delighted to have you{" "}
